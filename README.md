@@ -45,4 +45,3 @@ Certifique-se de estar conectado à internet para obter as taxas de câmbio em t
 Você pode personalizar o código para adicionar mais moedas ou melhorar a interface do usuário.
 
 **Lembre-se de que este é apenas um exemplo básico. Você pode expandir o conversor de moeda adicionando mais recursos, como histórico de taxas, gráficos ou uma interface gráfica com Tkinter. Divirta-se criando seu próprio conversor de moeda! 💰🌎**
-2. 
